@@ -3,4 +3,4 @@ RNN, LSTM, and Transformer implementations using PyTorch and BPE SentencePiece t
 
 Evaluation metrics include Perplexity and Bilingual Evaluation Understudy scoring. 
 
-The train_rnn.py, train_lstm.py, and train_transformer.py scripts each fully train and evaluate the a model of the type listed in the script name.
+The train_rnn.py, train_lstm.py, and train_transformer.py scripts each fully train and evaluate a model instance of the type listed in the script name.
